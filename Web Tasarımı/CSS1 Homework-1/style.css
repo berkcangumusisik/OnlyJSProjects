@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(30, 41, 59);
+    color: #f1f5f9;
+}
+.dotted-bold-divider {
+    border: 5px dotted rgb(255, 175, 204);
+}
+h2 {
+    color: rgba(56, 189, 248, 0.5);
+}
+#table-header {
+    background-color: rgb(255, 221, 89);
+    color: #1e293b;
+}
